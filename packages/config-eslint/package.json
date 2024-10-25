@@ -9,7 +9,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "types": "./@types/global.d.ts",
   "devDependencies": {
     "@types/eslint-plugin-jest": "workspace:*"
   },
