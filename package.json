@@ -1,0 +1,12 @@
+{
+  "name": "core",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Root package",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Erik Hansson",
+  "license": "MIT"
+}
